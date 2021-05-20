@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Juan Soberanes"
-  avatar : "/assets/images/test.png"
+  avatar : "/assets/images/test.jpg"
   bio    : "In love with learning! Especially how to code."
   links:
     - label: "Website"
