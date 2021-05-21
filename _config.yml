@@ -63,7 +63,7 @@ author:
   bio    : "In love with learning! Especially how to code."
   links:
     - label: "Youtube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fas fa-fw fa-link"
       url: "https://www.youtube.com/channel/UClPrJCdhyQYsQNc7AlhW-Eg"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
