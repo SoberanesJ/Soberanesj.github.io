@@ -11,6 +11,6 @@ tags:
 ---
 
 
-I am always looking for what is next. What comes after cyber securiy, where is it going and what is the new frontier? My answer to those questions is artificial intelligence . 
+I am always looking for what is next. What comes after cyber security, where is it going and what is the new frontier? My answer to those questions is artificial intelligence . 
 I will be conducting research on how aritifical intelligence can be used in cyber security for exploits,remediations, and defenses. On top of this I will have occasionaly side projects that I find fun and I hope that I fascinate you in the realm of technlogy! 
 
