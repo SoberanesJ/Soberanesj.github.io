@@ -11,4 +11,4 @@ tags:
   - roadmap
 ---
 
-![Roadmap](https://unsplash.com/photos/ECGv8s2IPG0 "Roadmap")
+![Roadmap](/assets/images/mark-konig-ECGv8s2IPG0-unsplash.jpg "Roadmap")
